@@ -65,7 +65,7 @@ Follow the instructions below to get started.
     - Push your modified version back to your fork
     - Open a pull request on the original repo (i.e. this one)
 5. **Final questions**
-    - Think of one topic related to collaborating on GitHub that you either don't fully understand or would like to hear other people's opinions on. It could be something that we covered in today's tutorial, or something you've heard about elsewhere.
+    - Think of one topic related to collaborating on GitHub that you either don't fully understand or would like to hear other people's opinions on. It could be something that we covered in today's tutorial, or something you've heard about elsewhere. Tag it with the "Question" tag. If you can help someone out with their question, post a reply to their issue!
 
 ## Further resources
 
