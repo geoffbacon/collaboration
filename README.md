@@ -22,7 +22,7 @@ By the end of this workshop, you will:
 There are five parts to this tutorial. It's OK if we don't get through all of them, as all of the resources will remain here for you to peruse after today. The five parts are:
 
 1. **Explain** 
-    - In this part, you'll work in your pair to **explain** fundamental concepts of GitHub and its collaboration features. 
+    - In this part, you'll work in your pair to explain fundamental concepts of GitHub and its collaboration features. 
 2. **Answer** 
     - Test your knowledge of collaborating on GitHub by discussing these questions with the group via GitHub issues.
 3. **Define, motivate and perform**
