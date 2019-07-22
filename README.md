@@ -49,9 +49,9 @@ Follow the instructions below to get started.
 0. **Team up** 
     - Team up with someone you don't know to work with for today. Make sure at least one of you is set up as described above.
 1. **Explain** 
-    - Go to the issues page of this repo. You'll see a whole bunch of issues tagged as "Explain". Let's answer one or two of them as a big group and then we'll break off into our pairs. If you're feeling collaborative, post your answer as a reply in the issue!
+    - Go to the [issues page](https://github.com/geoffbacon/collaboration/issues?q=is%3Aopen+is%3Aissue+label%3AExplain) of this repo. You'll see a whole bunch of issues tagged as "Explain". Let's answer one or two of them as a big group and then we'll break off into our pairs. If you're feeling collaborative, post your answer as a reply in the issue!
 2. **Answer**
-    - Head back to the issues page of this repo and find the issues tagged "Answer". These are more open-ended topics than before for us to discuss. Post your answer as a reply in the issue.
+    - Head back to the [issues page](https://github.com/geoffbacon/collaboration/issues) of this repo and find the issues tagged "Answer". These are more open-ended topics than before for us to discuss. Post your answer as a reply in the issue.
 3. **Define, motivate and perform**
     - Find the issues tagged "Perform".
     - Give a one-sentence definition of the step.
