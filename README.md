@@ -4,7 +4,7 @@ This is a one-hour introduction to collaborating on [GitHub](https://github.com/
 
 Modern software and data science is driven by collaboration. Gone are the days of the (image of the) lone developer, hidden away in their basement, writing code and surviving only on pizza, only to emerge a week later with flawless and fully-featured software. Today, we acknowledge that working together we can achieve more. In short, collaboration means better software and better science.
 
-This tutorial is desgined to be interactive, practical and task-driven. We've replace slides and lectures with discussion questions and real-life tasks.
+This tutorial is desgined to be interactive, practical and task-driven. We've replaced slides and lectures with discussion questions and real-life tasks.
 
 ## Goals
 
@@ -75,7 +75,7 @@ Want to learn more about collaborating on GitHub. Check out these awesome resour
 - [The State of the Octoverse](https://octoverse.github.com/) An annual report from GitHub about the platform. Make sure you check out [which organizations](https://octoverse.github.com/projects) contribute the most to open source
 - [Collaborating with issues and pull requests](https://help.github.com/en/categories/collaborating-with-issues-and-pull-requests) from GitHub
 - [The Ultimate GitHub Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
-- Free Udaity course on [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- Free Udacity course on [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 
 
 
